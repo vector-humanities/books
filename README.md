@@ -28,7 +28,7 @@ Every book is free to read and download under the [Creative Commons Attribution 
 
 | Series | Publishes | Imprint page |
 |---|---|---|
-| *Vector Humanities Editions* | Translations by the vector translation method, each naming its source edition, the scans it works from, and their rights status | "This is a vector translation." The Translator's Note describes how AI agents were used and what the translator decided |
+| *Vector Humanities Editions* | Translations by the vector translation method, each naming its source edition, the scans it works from, and their rights status | "This book was vector translated." The Translator's Note describes how AI agents were used and what the translator decided |
 | *Contingencies* | New short works commissioned by the series. Authors keep their copyright, grant the series a non-exclusive right to publish, and release the work under CC BY 4.0 | How AI was used is stated in the preface |
 
 ## Books in preparation
@@ -40,7 +40,7 @@ Every book is free to read and download under the [Creative Commons Attribution 
 <b>Kuki Shūzō</b><br>
 <i>The Problem of Contingency</i><br>
 偶然性の問題 (Iwanami Shoten, 1935)<br>
-translated by David M. Berry<br>
+vector translated by David M. Berry<br>
 <sub>Vector Humanities Editions · preliminary edition in preparation</sub>
 </td>
 <td width="50%" align="center" valign="top">
@@ -48,7 +48,7 @@ translated by David M. Berry<br>
 <b>Florens Christian Rang</b><br>
 <i>Historical Psychology of Carnival</i><br>
 with <i>Faith, Love and Industriousness: A Letter to Walther Rathenau</i><br>
-<i>Die Kreatur</i> 2 (1927/28), translated by David M. Berry<br>
+<i>Die Kreatur</i> 2 (1927/28), vector translated by David M. Berry<br>
 <sub>Vector Humanities Editions · pilot</sub>
 </td>
 </tr>
