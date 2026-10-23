@@ -24,12 +24,12 @@ Every book is free to read and download under the [Creative Commons Attribution 
 
 ## The series
 
-<p align="center"><img src="docs/img/series.png" alt="The two series side by side, each with the head of its imprint page: the mark, the series name in italic, and VECTOR HUMANITIES in capitals" width="860"></p>
+<p align="center"><img src="docs/img/series.png" alt="The two series side by side, each with the head of its imprint page and a sample page in its design: classic for Vector Humanities Editions, organic and vectors for Contingencies" width="860"></p>
 
-| Series | Publishes | Imprint page |
-|---|---|---|
-| *Vector Humanities Editions* | Translations by the vector translation method, each naming its source edition, the scans it works from, and their rights status | "This book was vector translated." The Translator's Note describes how AI agents were used and what the translator decided |
-| *Contingencies* | New short works commissioned by the series. Authors keep their copyright, grant the series a non-exclusive right to publish, and release the work under CC BY 4.0 | How AI was used is stated in the preface |
+| Series | Publishes | Design | Imprint page |
+|---|---|---|---|
+| *Vector Humanities Editions* | Translations by the vector translation method, each naming its source edition, the scans it works from, and their rights status | Vector Book's *classic* design | "This book was vector translated." The Translator's Note describes how AI agents were used and what the translator decided |
+| *Contingencies* | New short works commissioned by the series. Authors keep their copyright, grant the series a non-exclusive right to publish, and release the work under CC BY 4.0 | *organic* or *vectors*, one per book, chosen by the author | How AI was used is stated in the preface |
 
 ## Books in preparation
 

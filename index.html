@@ -142,6 +142,14 @@
     .series p { margin: 0 0 1em; hyphens: manual; }
     .series .list { border-top: 1px solid var(--rule-soft); padding-top: 14px; margin-top: 22px; font-size: .95rem; color: var(--muted); text-align: left; }
     .series .list b { font-weight: 400; font-variant-caps: all-small-caps; letter-spacing: .1em; color: var(--ink); }
+    .series .samples { display: flex; justify-content: center; align-items: flex-end; gap: 24px; margin: 26px 0 8px; }
+    .series .samples figure { margin: 0; }
+    .series .samples .classic { width: 172px; }
+    .series .samples .organic { width: 143px; }
+    .series .samples .vectors { width: 154px; }
+    .series .samples img { display: block; width: 100%; height: auto; border: 1px solid #e3dac8; box-shadow: var(--shadow); background: #fff; }
+    .series .samples figcaption { margin-top: 10px; text-align: center; font-size: .95rem; font-variant-caps: all-small-caps; letter-spacing: .12em; color: var(--muted); }
+    .series-note { margin: 40px auto 0; max-width: 560px; text-align: center; font-size: .9rem; font-style: italic; color: var(--muted); }
     .held { text-align: center; color: var(--muted); font-style: italic; margin: 56px 0 0; }
 
     /* Catalogue */
@@ -289,6 +297,10 @@
           <p class="kind">Translations</p>
           <p>Translations made by the vector translation method. AI agents draft the text from page images twice, once as a literal version, sentence by sentence, and once as readable prose, under a translator who writes the brief, settles the terms and corrects. Each version is checked against the other and against the page images.</p>
           <p>Every translation names its source edition, the scans it works from, and their rights status.</p>
+          <p>Set in Vector Book's <i>classic</i> design: EB Garamond on a 156 × 234 mm page, with the page numbers of the source edition in the outer margin.</p>
+          <div class="samples">
+            <figure class="classic"><img src="assets/design-classic.jpg" alt="A chapter opening in the classic design: a centred chapter title in spaced small capitals over text in EB Garamond" width="427" height="640" loading="lazy"><figcaption>Classic</figcaption></figure>
+          </div>
           <p class="list"><b>In preparation</b> Kuki Shūzō, <i>The Problem of Contingency</i> · Florens Christian Rang, <i>Historical Psychology of Carnival</i></p>
         </article>
 
@@ -302,9 +314,15 @@
           <p class="kind">New work</p>
           <p>Short new works commissioned by the series: essays and studies in the humanities, written in or about the vector medium.</p>
           <p>Authors keep their copyright, grant the series a non-exclusive right to publish, and release the work under CC BY 4.0. A short agreement records what the author warrants and how a correction or withdrawal is handled.</p>
+          <p>Each book is set in one of two Vector Book designs, chosen by the author: <i>organic</i>, a 130 × 190 mm paperback in Fira Sans Condensed with a generated field page before each chapter, or <i>vectors</i>, a 140 × 216 mm book in IBM Plex Serif with generated vector imagery at each chapter.</p>
+          <div class="samples">
+            <figure class="organic"><img src="assets/design-organic.jpg" alt="A chapter opening in the organic design: the title in huge stacked black capitals over text in Fira Sans Condensed" width="438" height="640" loading="lazy"><figcaption>Organic</figcaption></figure>
+            <figure class="vectors"><img src="assets/design-vectors.jpg" alt="A chapter opening in the vectors design: the title set large over a band of coloured streamlines on a grid, with text in IBM Plex Serif below" width="415" height="640" loading="lazy"><figcaption>Vectors</figcaption></figure>
+          </div>
           <p class="list"><b>First titles</b> to be commissioned.</p>
         </article>
       </div>
+      <p class="series-note">Sample pages: the opening of chapter 2 of the Vector Book specimen, in each series' design, shown to scale.</p>
     </div>
   </section>
 
